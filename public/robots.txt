@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mixmaster.com/sitemap.xml 
